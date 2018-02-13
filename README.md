@@ -12,7 +12,7 @@ Simply run sbt with command
 ```
 sbt assembly
 ```
-You will find yor shiny new jar inside `.//target/scala-2.12/kafka-producer.jar`
+You will find yor shiny new jar inside `../target/scala-2.12/kafka-producer.jar`
 
 ## How to run it
 
